@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114462010303",
+    "project_id": "ecoscang",
+    "storage_bucket": "ecoscang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114462010303:android:6b5750d0d94d805bf00f0a",
+        "android_client_info": {
+          "package_name": "com.gabriela.ecoscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwrI60yc58eKSo3WO5lv6UiymIVE6RXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
